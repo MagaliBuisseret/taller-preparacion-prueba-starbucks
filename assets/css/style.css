@@ -1,0 +1,111 @@
+.body{
+	font-family: "Roboto",sans-serif;
+}
+.navbar{
+	margin: 0;
+}
+.navbar-cont{
+	margin: 0;
+	background-color: #CCCCCC;
+	border-top: 5px solid green;
+}
+.collapse{
+	margin: 0;
+
+}
+.navbar-logo{
+	width: 40px;
+}
+.navbar-brand{
+	padding-left: 50px;
+	padding-top: 5px;
+}
+.navbar-right{
+	padding-right: 50px;
+	padding-top: 9px;
+	padding-bottom: 0;
+}
+.navbar-default .navbar-nav li a{
+	color: black;
+}
+.row{
+	margin-right: 0;
+}
+.jumbotron{
+	margin: 0;
+}
+.header{
+	background-image: url(../images/banner1.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 0;
+	margin-top: 
+}
+.header__inner{
+	background-color: black;
+	opacity: 0.5;
+	text-align: center;
+	color: white;
+	padding: 40px 0 40px 0;
+	margin: 30px 90px 30px 90px;
+	border-radius: 20px;
+}
+.thumbnail button{
+	border: solid 2px white;
+	background-color: black;
+	opacity: 0.5;
+	color: white;
+	border-radius: 15px;
+}
+.main{
+	background-image: url(../images/stars2.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;	
+	padding: 0;
+}
+.main__inner{
+	background-color: black;
+	opacity: 0.5;
+	text-align: center;
+	color: white;
+	padding: 40px 0 40px 0;
+	border-radius: 20px;
+	margin: 20px 20px 20px 20px;
+}
+.features{
+	background-image: url(../images/beans.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 0;
+}
+.features__inner{
+	background-color: black;
+	opacity: 0.5;
+	text-align: center;
+	color: white;
+	padding: 40px 0 40px 0;
+	border-radius: 20px;
+	margin: 20px 20px 20px 20px;	
+}
+.footer{
+	height: 20vh;
+	text-align: center;
+	padding-top: 20px;
+}
+.footer__img{
+	margin: 10px 0 10px 0;
+}
+.footer__img img{
+	width: 30px;	
+}
+.footer p{
+	font-size: 1rem;
+}
+.footer2{
+	height: 20px;
+	border-top: 5px solid green;
+	padding: 0;
+}
